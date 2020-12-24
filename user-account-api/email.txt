@@ -1,0 +1,9 @@
+Dear player,
+In order to log in to your account so you can change your password click the following link:
+
+https://localhost:5001/api/account/temp-login?useremail=ersinkirteke@gmail.com&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE2MDg3NjQzMzksImV4cCI6MTYwODc2NDM5OSwiaXNzIjoid3d3LnRlc3QuY29tIiwiYXVkIjoid3d3LnRlc3QyLmNvbSJ9.HHDoG2UjPrGGborrNvxoYIFsxNbmFlK67EMvFt9uKYo
+
+Note that this link is only valid for 1 hour, after which it expires!
+
+Happy playing!
+Greentube Support Team
